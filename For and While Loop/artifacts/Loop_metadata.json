@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "loop",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Solidity Contracts/For and While Loop/Loop.sol": "Loop"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Solidity Contracts/For and While Loop/Loop.sol": {
+			"keccak256": "0x4ae2068af524d6ce9ab80d1cfbabe294486bdd85bf0f49c88adc3e5b31ed2f0d",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://4eab236d86555b3b0e3a2a1d49c3ef38fd435de188faeaa2253141df24ff3b1c",
+				"dweb:/ipfs/QmchjbcR54MC4aXQpfPwwwzowT1weRDzzpUzFWyi9Th3r8"
+			]
+		}
+	},
+	"version": 1
+}
