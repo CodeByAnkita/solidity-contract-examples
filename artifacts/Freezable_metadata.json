@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Solidity Contracts/fullcontract.sol": "Freezable"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Solidity Contracts/fullcontract.sol": {
+			"keccak256": "0x98163e12ab891ca57800989b2869ec230efb115c8d51c07f7fed69b65a6ddf28",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://2545c626d49dff003de34be107eed9f7acaa5634e4668cf27b0e1d9facdd7ccc",
+				"dweb:/ipfs/QmTVTie2Hu9KXJyoxQ2G9ovo2jsDfB5M4SJN67t2Ctmkfe"
+			]
+		}
+	},
+	"version": 1
+}
