@@ -1,0 +1,45 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Solidity Contracts/User Defined Value Types/UserDefinedValueTypes.sol": "LibClockBasic"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Solidity Contracts/User Defined Value Types/UserDefinedValueTypes.sol": {
+			"keccak256": "0x24493e1b3a4c153e73dd6ad1a434aaa3616d7adb745d6e01a4bf0819d87f0961",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://a6b359abb80cd8218a62f7f467ab5c78f45f2f9f52a9010a990a7eb2aeaf4208",
+				"dweb:/ipfs/QmTzyFEGVKWqxu2GDCubD1rLBVuFYqteGpg6cq5TC5uR6t"
+			]
+		}
+	},
+	"version": 1
+}
