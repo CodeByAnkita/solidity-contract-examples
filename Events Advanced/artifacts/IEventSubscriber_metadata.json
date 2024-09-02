@@ -1,0 +1,69 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "from",
+						"type": "address"
+					},
+					{
+						"internalType": "address",
+						"name": "to",
+						"type": "address"
+					},
+					{
+						"internalType": "uint256",
+						"name": "value",
+						"type": "uint256"
+					}
+				],
+				"name": "handleTransferEvent",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Solidity Contracts/Events Advanced/EventsAdvanced.sol": "IEventSubscriber"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Solidity Contracts/Events Advanced/EventsAdvanced.sol": {
+			"keccak256": "0x7951398c876313b7d246f7adfde979eeafe7aa7c4f1baaf3d2bb16895f4636c2",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://670082760cb27d66d81c759edc70431f1fa1126f1769b37c686cfd491493f156",
+				"dweb:/ipfs/QmdUZTzMXouX7xXozdiJTMwZpzf4x7B4hthtaLtyiPv3nJ"
+			]
+		}
+	},
+	"version": 1
+}
