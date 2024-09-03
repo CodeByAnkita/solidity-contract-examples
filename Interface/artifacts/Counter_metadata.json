@@ -1,0 +1,66 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "count",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "increment",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Solidity Contracts/Interface/Interface.sol": "Counter"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Solidity Contracts/Interface/Interface.sol": {
+			"keccak256": "0xb8b085bf876c0cb8189706eb9dcf89843f00f5fdcc888e5bd8af3371d9e1e2cc",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://59cb2d402676bb8d9d785f9eee0b0e23592c3b63a19de7682f7911b838ea3ae7",
+				"dweb:/ipfs/QmUqsTkTZhcTh3zNcH7Uotce9X2Rng1WG4Q6KHUCHFJKpV"
+			]
+		}
+	},
+	"version": 1
+}

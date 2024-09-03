@@ -1,0 +1,77 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "getName",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "name",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Solidity Contracts/Shadowing Inherited State Variables/Shadow.sol": "C"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Solidity Contracts/Shadowing Inherited State Variables/Shadow.sol": {
+			"keccak256": "0x0e38c0933f9615263d03990494733a2db531794331a84d0e5adf012eea23266f",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://2aa2f6aa91079030eba47c51d9655cf20d637ca1bb9f9628a77e629573d52f95",
+				"dweb:/ipfs/QmdmeP8QVFEirbzii3bBCbN3k1wQQVS2rx52sQSYcP3d2D"
+			]
+		}
+	},
+	"version": 1
+}
